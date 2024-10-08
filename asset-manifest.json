@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kinescope/static/css/main.88445d9e.css",
+    "main.css": "/kinescope/static/css/main.cceeb743.css",
     "main.js": "/kinescope/static/js/main.d5efac89.js",
     "index.html": "/kinescope/index.html",
-    "main.88445d9e.css.map": "/kinescope/static/css/main.88445d9e.css.map",
+    "main.cceeb743.css.map": "/kinescope/static/css/main.cceeb743.css.map",
     "main.d5efac89.js.map": "/kinescope/static/js/main.d5efac89.js.map"
   },
   "entrypoints": [
-    "static/css/main.88445d9e.css",
+    "static/css/main.cceeb743.css",
     "static/js/main.d5efac89.js"
   ]
 }
