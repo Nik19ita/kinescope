@@ -64,7 +64,7 @@ function App() {
   const [list, setList] = useState<typeArrayItems[]>([]);
 
   const addItem = () => {
-    if (inputValue === "") return;
+    if (inputValue.trim() === "") return;
     setInputValue("");
     setList((list) => [
       ...list,
